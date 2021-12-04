@@ -1,0 +1,7 @@
+.idea
+build
+node_modules
+
+*.orig
+*.DS_Store
+npm-debug.log*
